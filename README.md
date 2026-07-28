@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshu123-bit/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/divyanshu123-bit/DSA/tree/master/0042-trapping-rain-water) |
 | [0704-binary-search](https://github.com/divyanshu123-bit/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -25,5 +26,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyanshu123-bit/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshu123-bit/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
