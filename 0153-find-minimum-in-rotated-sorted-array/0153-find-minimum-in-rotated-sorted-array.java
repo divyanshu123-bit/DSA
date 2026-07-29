@@ -4,10 +4,7 @@ class Solution {
 
         for(int i=0; i<nums.length; i++)
         {
-            if(nums[i] < minimum)
-            {
-                minimum = nums[i];
-            }
+           minimum = Math.min(minimum , nums[i]);
         }
         return minimum;
     }
