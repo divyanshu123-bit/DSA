@@ -13,7 +13,7 @@ class Solution {
 
             if(nums[left] <= nums[mid])
             {
-                if(nums[left] <= target  &&  target <= nums[mid])
+                if(nums[left] <= target  &&  target < nums[mid])
                 {
                     right = mid - 1;
                 } 
@@ -24,7 +24,7 @@ class Solution {
             }
             else
             {
-                if(nums[mid] <= target && target <= nums[right])
+                if(nums[mid] < target && target <= nums[right])
                 {
                     left = mid + 1;
                 }
