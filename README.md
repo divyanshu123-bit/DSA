@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshu123-bit/DSA/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshu123-bit/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshu123-bit/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshu123-bit/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/divyanshu123-bit/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshu123-bit/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
