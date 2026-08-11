@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshu123-bit/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/divyanshu123-bit/DSA/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/divyanshu123-bit/DSA/tree/master/0275-h-index-ii) |
+| [0496-next-greater-element-i](https://github.com/divyanshu123-bit/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/divyanshu123-bit/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu123-bit/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu123-bit/DSA/tree/master/0875-koko-eating-bananas) |
@@ -31,11 +32,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu123-bit/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divyanshu123-bit/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/divyanshu123-bit/DSA/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshu123-bit/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshu123-bit/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/divyanshu123-bit/DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshu123-bit/DSA/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/divyanshu123-bit/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
