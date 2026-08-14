@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divyanshu123-bit/DSA/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/divyanshu123-bit/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
